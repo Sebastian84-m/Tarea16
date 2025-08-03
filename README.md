@@ -39,12 +39,14 @@ Este proyecto tiene como objetivo demostrar el uso de un sistema de control de v
 - `rama-Sebas`: sirvio para crear el archivo txt y agrego algunos de los dias de la semana en desorden.
 - `rama-danny`: modifico el archivo txt para poner los dias de la semana en orden y agregar unos dias mas.
 - `rama-jonathan`: agrego todos los dias de la semana y los ordeno
+
+
 ![Ramas](imagen-ramas.png)
 
 
 #### ✍️ Cambios realizados
-- Rama `rama-Sebas`: creó un archivo `dias.txt` el cual contenia lo dias "Lunes", "Jueves y "Domingo". | Agrego una numeracion a la lista de los dias.
-- Rama `rama-danny`: modifico el archivo y agrego el archivo agregando los dias "Miercoles" y "Viernes". | Ordeno los dias de la semana.
+- Rama `rama-Sebas`: creó un archivo `dias.txt` el cual contenia lo dias "Lunes", "Jueves y "Miercoles". | Agrego una numeracion a la lista de los dias.
+- Rama `rama-danny`: modifico el archivo y agrego el archivo agregando los dias "Martes" y "Viernes". | Ordeno los dias de la semana.
 - Rama `rama-jonathan`: agrego los dias de la semana faltantes y ordeno los dias de la semana.
 
 #### 🔀 Merge y resolución de conflictos
@@ -52,7 +54,9 @@ Durante la fusión de las ramas:
 - Hubo conflictos en el archivo `dias.txt` entre `rama-Sebas` y `rama-jonathan`.
 - El conflicto se resolvió de determinando que se debe agregar todos los dias de la semana en orden.
 - Al final se modifico el archivo y se subio a la rama principal.
+
 ![Conflicto](imagen-c.png)
+
 ![Conflicto](imagen-con.png)
 
 ---
