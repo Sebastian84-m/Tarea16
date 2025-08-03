@@ -52,8 +52,8 @@ Durante la fusión de las ramas:
 - Hubo conflictos en el archivo `dias.txt` entre `rama-Sebas` y `rama-jonathan`.
 - El conflicto se resolvió de determinando que se debe agregar todos los dias de la semana en orden.
 - Al final se modifico el archivo y se subio a la rama principal.
-![Conflicto](imagen-conflicto(1).png)
-![Conflicto](imagen-conflicto(1).png)
+![Conflicto](Tarea16/imagen-conflicto(2).png)
+![Conflicto](Tarea16/imagen-conflicto(1).png)
 
 ---
 
